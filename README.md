@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 Meu nome é Arthur Canofre Simões <br>
-Tenho 15 anos<br>
-Estudante - Ensino médio integrado com técnico em desenvolvimento de sistemas.
+Tenho 17 anos<br>
+Estudante - Bacharelado em Ciencia da Computacao.
 
 
 # 💻 Estudando:
