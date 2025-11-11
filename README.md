@@ -13,4 +13,8 @@ Técnico em Desenvolvimento de sistemas
 ---
 [![](https://visitcount.itsvg.in/api?id=Arthur-canofre&icon=0&color=1)](https://visitcount.itsvg.in)
 
+# 📫 Entre em contato comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-canofre-simões-0347492a8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthurcanofre.s@gmail.com)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
