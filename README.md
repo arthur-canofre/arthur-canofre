@@ -12,7 +12,7 @@ Técnico em Desenvolvimento de sistemas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-canofre&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 📫 Entre em contato comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-canofre-simões-0347492a8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthurcanofre.s@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcanofre.s@gmail.com)
 
 ---
 
